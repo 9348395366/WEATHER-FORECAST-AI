@@ -1,0 +1,47 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="AI boat dancing">
+  <defs>
+    <linearGradient id="hull" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6fa8ff" />
+      <stop offset="45%" stop-color="#3f62d0" />
+      <stop offset="100%" stop-color="#1b2b6e" />
+    </linearGradient>
+    <linearGradient id="hullShadow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1a3d" stop-opacity="0.0" />
+      <stop offset="100%" stop-color="#0b1230" stop-opacity="0.65" />
+    </linearGradient>
+    <linearGradient id="deck" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8d4ff" />
+      <stop offset="100%" stop-color="#6fa0ff" />
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e7f3ff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#8ec1ff" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="wake" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5fd3ff" stop-opacity="0.0" />
+      <stop offset="50%" stop-color="#79e0ff" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#5fd3ff" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+  <g>
+    <ellipse cx="256" cy="388" rx="190" ry="32" fill="url(#wake)" />
+    <path d="M86 340 L156 388 Q256 430 356 388 L426 340 L398 406 Q256 468 114 406 Z" fill="url(#hull)" />
+    <path d="M100 348 L160 388 Q256 422 352 388 L412 348 L392 398 Q256 452 120 398 Z" fill="url(#hullShadow)" />
+    <path d="M144 310 L368 310 L352 340 Q256 384 160 340 Z" fill="url(#deck)" />
+    <path d="M186 226 L326 226 Q350 226 350 250 L350 310 L162 310 L162 250 Q162 226 186 226 Z" fill="url(#glass)" stroke="#d6e9ff" stroke-width="4" />
+    <path d="M206 226 L306 226 L290 196 Q256 172 222 196 Z" fill="#d9ecff" opacity="0.9" />
+    <circle cx="256" cy="268" r="34" fill="#0d1636" stroke="#7fd6ff" stroke-width="5" />
+    <circle cx="256" cy="268" r="18" fill="#73e4ff" />
+    <path d="M206 268 L230 268" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" />
+    <path d="M282 268 L306 268" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" />
+    <path d="M256 236 L256 220" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" />
+    <path d="M256 300 L256 316" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" />
+    <path d="M120 414 C170 400 220 400 270 412" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.7" />
+    <path d="M242 412 C292 400 342 400 392 412" stroke="#7fd6ff" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.7" />
+    <text x="256" y="362" text-anchor="middle" font-size="28" fill="#d6e9ff" font-family="Arial, sans-serif" letter-spacing="2">AI</text>
+    <path d="M188 260 L150 240" stroke="#9fdcff" stroke-width="3" stroke-linecap="round" />
+    <path d="M324 260 L362 240" stroke="#9fdcff" stroke-width="3" stroke-linecap="round" />
+    <circle cx="140" cy="234" r="6" fill="#9fdcff" />
+    <circle cx="372" cy="234" r="6" fill="#9fdcff" />
+  </g>
+</svg>

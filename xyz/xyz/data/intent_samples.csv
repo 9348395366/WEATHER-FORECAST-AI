@@ -1,0 +1,211 @@
+﻿text,intent,language
+current weather,current_weather,en
+what is the weather now,current_weather,en
+temperature now,current_weather,en
+weather today,current_weather,en
+right now weather,current_weather,en
+आज मौसम कैसा है,current_weather,hi
+अभी मौसम,current_weather,hi
+वर्तमान तापमान,current_weather,hi
+आज का मौसम,current_weather,hi
+मौसम अभी,current_weather,hi
+ଏବେ ପାଣିପାଗ,current_weather,or
+ଆଜି ପାଣିପାଗ,current_weather,or
+ତାପମାନ ଏବେ,current_weather,or
+ଏବେର ଆବହାଓଆ,current_weather,or
+ବର୍ତ୍ତମାନ ପାଣିପାଗ,current_weather,or
+forecast,forecast_summary,en
+tomorrow weather,forecast_summary,en
+next 12 hours forecast,forecast_summary,en
+weather later today,forecast_summary,en
+next week forecast,forecast_summary,en
+कल मौसम,forecast_summary,hi
+पूर्वानुमान,forecast_summary,hi
+आगे का मौसम,forecast_summary,hi
+अगले 12 घंटे,forecast_summary,hi
+आने वाला मौसम,forecast_summary,hi
+ପୂର୍ବାନୁମାନ,forecast_summary,or
+କାଲି ପାଣିପାଗ,forecast_summary,or
+ଆଗାମୀ 12 ଘଣ୍ଟା,forecast_summary,or
+ଆସନ୍ତା ଆବହାଓଆ,forecast_summary,or
+ଆଗକୁ ପାଣିପାଗ,forecast_summary,or
+air quality,air_quality,en
+aqi today,air_quality,en
+pollution level,air_quality,en
+pm2.5 now,air_quality,en
+air pollution,air_quality,en
+वायु गुणवत्ता,air_quality,hi
+ए क्यू आई,air_quality,hi
+प्रदूषण स्तर,air_quality,hi
+पीएम 2.5,air_quality,hi
+हवा की गुणवत्ता,air_quality,hi
+ବାୟୁ ଗୁଣତା,air_quality,or
+AQI,air_quality,or
+ପିଏମ 2.5,air_quality,or
+ବାୟୁ ପ୍ରଦୂଷଣ,air_quality,or
+ପଲ୍ଲୁସନ ଲେଭେଲ୍,air_quality,or
+uv index,uv_index,en
+ultraviolet index,uv_index,en
+uv level,uv_index,en
+uv now,uv_index,en
+sun uv,uv_index,en
+यूवी इंडेक्स,uv_index,hi
+यूवी लेवल,uv_index,hi
+अल्ट्रावायलेट,uv_index,hi
+यूवी अभी,uv_index,hi
+धूप यूवी,uv_index,hi
+ୟୁଭି ଇଣ୍ଡେକ୍ସ,uv_index,or
+ୟୁଭି ଲେଭେଲ୍,uv_index,or
+ଅଲ୍ଟ୍ରାଭାୟୋଲେଟ,uv_index,or
+ୟୁଭି ଏବେ,uv_index,or
+ସୂର୍ଯ୍ୟ ଯୁଭି,uv_index,or
+wind speed,wind,en
+wind now,wind,en
+wind direction,wind,en
+breeze,wind,en
+gust,wind,en
+हवा की गति,wind,hi
+अभी हवा,wind,hi
+हवा का रुख,wind,hi
+तेज हवा,wind,hi
+हवा,wind,hi
+ପବନ ବେଗ,wind,or
+ଏବେ ପବନ,wind,or
+ପବନ ଦିଗ,wind,or
+ପବନ,wind,or
+ତେଜ ପବନ,wind,or
+humidity,humidity,en
+humid now,humidity,en
+current humidity,humidity,en
+humidity level,humidity,en
+moisture in air,humidity,en
+नमी,humidity,hi
+आर्द्रता,humidity,hi
+ह्यूमिडिटी,humidity,hi
+नमी स्तर,humidity,hi
+अभी नमी,humidity,hi
+ଆର୍ଦ୍ରତା,humidity,or
+ନମି,humidity,or
+ଆର୍ଦ୍ରତା ଲେଭେଲ୍,humidity,or
+ଏବେ ଆର୍ଦ୍ରତା,humidity,or
+ନମି ମାତ୍ରା,humidity,or
+visibility,visibility,en
+fog,visibility,en
+haze visibility,visibility,en
+visibility now,visibility,en
+how clear is it,visibility,en
+दृश्यता,visibility,hi
+कोहरा,visibility,hi
+धुंध,visibility,hi
+अभी दृश्यता,visibility,hi
+दिखाई दे रहा है,visibility,hi
+ଦୃଶ୍ୟମାନତା,visibility,or
+କୁହୁଡ଼ି,visibility,or
+ହେଜ୍,visibility,or
+ଏବେ ଦୃଶ୍ୟମାନତା,visibility,or
+ସ୍ପଷ୍ଟତା,visibility,or
+pressure,pressure,en
+surface pressure,pressure,en
+barometer reading,pressure,en
+air pressure,pressure,en
+pressure now,pressure,en
+दबाव,pressure,hi
+वायुदाब,pressure,hi
+सतही दबाव,pressure,hi
+प्रेशर अभी,pressure,hi
+बारोमीटर,pressure,hi
+ଚାପ,pressure,or
+ବାୟୁଚାପ,pressure,or
+ସତହ ଚାପ,pressure,or
+ଏବେ ଚାପ,pressure,or
+ବାରୋମିଟର,pressure,or
+where am i,location,en
+my location,location,en
+current location,location,en
+which city am i in,location,en
+my address,location,en
+मैं कहाँ हूँ,location,hi
+मेरा स्थान,location,hi
+मेरी लोकेशन,location,hi
+मैं किस शहर में हूँ,location,hi
+मेरा पता,location,hi
+ମୁଁ କେଉଁଠି,location,or
+ମୋର ଅବସ୍ଥାନ,location,or
+ମୋ ଲୋକେସନ,location,or
+ମୁଁ କେଉଁ ସହରରେ,location,or
+ମୋ ଠିକଣା,location,or
+dataset summary,dataset_summary,en
+data size,dataset_summary,en
+dataset info,dataset_summary,en
+history data,dataset_summary,en
+data archive,dataset_summary,en
+डेटासेट सारांश,dataset_summary,hi
+डेटा सारांश,dataset_summary,hi
+डेटासेट जानकारी,dataset_summary,hi
+ऐतिहासिक डेटा,dataset_summary,hi
+डेटा संग्रह,dataset_summary,hi
+ଡାଟାସେଟ୍ ସାରଂଶ,dataset_summary,or
+ଡାଟା ସାରଂଶ,dataset_summary,or
+ଡାଟାସେଟ୍ ତଥ୍ୟ,dataset_summary,or
+ଇତିହାସ ଡାଟା,dataset_summary,or
+ଡାଟା ଆର୍କାଇଭ,dataset_summary,or
+model accuracy,model_summary,en
+model mae,model_summary,en
+model performance,model_summary,en
+training accuracy,model_summary,en
+model metrics,model_summary,en
+मॉडल accuracy,model_summary,hi
+मॉडल प्रदर्शन,model_summary,hi
+मॉडल mae,model_summary,hi
+ट्रेनिंग accuracy,model_summary,hi
+मॉडल मीट्रिक्स,model_summary,hi
+ମଡେଲ୍ accuracy,model_summary,or
+ମଡେଲ୍ ପରିଣାମ,model_summary,or
+ମଡେଲ୍ mae,model_summary,or
+ଟ୍ରେନିଂ accuracy,model_summary,or
+ମଡେଲ୍ ମିଟ୍ରିକ୍ସ,model_summary,or
+app info,app_info,en
+about the app,app_info,en
+application details,app_info,en
+what is this app,app_info,en
+app overview,app_info,en
+ऐप जानकारी,app_info,hi
+ऐप के बारे में,app_info,hi
+ऐप विवरण,app_info,hi
+यह ऐप क्या है,app_info,hi
+ऐप ओवरव्यू,app_info,hi
+ଆପ୍ ସୂଚନା,app_info,or
+ଆପ୍ ବିବରଣୀ,app_info,or
+ଆପ୍ କଣ,app_info,or
+ଆପ୍ ଓଭରଭ୍ୟୁ,app_info,or
+ଏହି ଆପ୍ କଣ,app_info,or
+show everything,all_details,en
+all details,all_details,en
+show all data,all_details,en
+give me everything,all_details,en
+all information,all_details,en
+सब कुछ दिखाओ,all_details,hi
+पूरी जानकारी,all_details,hi
+सब विवरण,all_details,hi
+सब जानकारी,all_details,hi
+सब कुछ,all_details,hi
+ସବୁ କିଛି,all_details,or
+ସମସ୍ତ ତଥ୍ୟ,all_details,or
+ସବୁ ବିବରଣୀ,all_details,or
+ସବୁ ସୂଚନା,all_details,or
+ସବୁ ଦେଖାଅ,all_details,or
+help,help,en
+what can you do,help,en
+how to use,help,en
+options,help,en
+show help,help,en
+मदद,help,hi
+क्या कर सकते हो,help,hi
+कैसे उपयोग करें,help,hi
+मदद दिखाओ,help,hi
+विकल्प,help,hi
+ସହାୟତା,help,or
+କଣ କରିପାରିବେ,help,or
+କିପରି ବ୍ୟବହାର,help,or
+ସହାୟତା ଦେଖାଅ,help,or
+ଅପ୍ସନ୍,help,or
